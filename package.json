@@ -17,6 +17,11 @@
   },
   "homepage": "https://github.com/OzaruWill/travel-site#readme",
   "dependencies": {
-    "jquery": "^3.1.1"
+    "jquery": "^3.1.1",
+    "normalize.css": "^5.0.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-watch": "^4.3.11"
   }
 }
