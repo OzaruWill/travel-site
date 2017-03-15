@@ -1,0 +1,5 @@
+html {background-color: #333;}
+body {color: #f0f; -webkit-columns: 300px 2; -moz-columns: 300px 2; columns: 300px 2;}
+h1 {color: #f0f;}
+
+.box a {color: #f0f;background-color: #fff;}
